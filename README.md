@@ -60,7 +60,7 @@ Se necesita Python 3, Apache Spark, PySpark y las bibliotecas OpenPyXL, Pandas y
 
 3. Ejecutar el programa con:
 
-```py
+```python
 python3 retail_batch.py
 ```
 
