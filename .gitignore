@@ -1,0 +1,13 @@
+# Datos originales y archivos convertidos
+Online Retail.xlsx
+Online Retail.csv
+
+# Resultados del procesamiento
+retail_resultados/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Configuración local de Git
+.DS_Store
